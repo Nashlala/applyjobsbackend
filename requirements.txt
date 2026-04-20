@@ -13,3 +13,4 @@ markdownify
 regex
 tls-client
 python-multipart
+psycopg2-binary
