@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+applyjobs.db
+*.pyc
+.env
