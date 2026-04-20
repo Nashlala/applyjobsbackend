@@ -12,3 +12,4 @@ requests
 markdownify
 regex
 tls-client
+python-multipart
